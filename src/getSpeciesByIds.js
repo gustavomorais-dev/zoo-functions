@@ -2,11 +2,11 @@ const data = require('../data/zoo_data');
 
 const getSpeciesByIds = (...args) => {
   // seu código aqui
-  let array = [];
+  const array = [];
   args.forEach((arg) => {
     data.species.forEach((specie) => {
-      if (specie.id == arg) array.push(specie); 
-    })
+      if (specie.id === arg) array.push(specie);
+    });
   });
   return array;
 };
