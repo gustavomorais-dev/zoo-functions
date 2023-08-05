@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# ZOO Functions
+
+Foram desenvolvidas funções que buscam informações sobre os animais de um zoológico como espécie, local de origem, além de buscar dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. Além disso, foram desenvolvidos testes unitários para as funções utilizando jest.
